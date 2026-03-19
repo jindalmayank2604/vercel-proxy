@@ -1,0 +1,8 @@
+{
+  "name": "hydrationapp-proxy",
+  "version": "1.0.0",
+  "description": "Backend proxy for HydrationApp — keeps all API secrets server-side",
+  "dependencies": {
+    "cloudinary": "^1.41.3"
+  }
+}
